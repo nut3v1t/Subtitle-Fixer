@@ -8,3 +8,5 @@ How to use it :
 * (-) means subtitles will appear earlier, (+) means subtitle will appear later.
 * The file will be fixed.
 * Delete all files in input-srt-file directory after finished
+
+Just a quick practice project, nothing else. 
